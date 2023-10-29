@@ -34,7 +34,7 @@ class _ChatWidgetState extends State<ChatWidget> {
                 Image.asset(
                   widget.chatIndex == 0
                       ? "assets/images/user_logo.png"
-                      : "assets/images/heitor.jpeg",
+                      : "assets/images/chat_logo.png",
                   width: 30,
                   height: 30,
                 ),

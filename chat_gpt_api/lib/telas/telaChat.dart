@@ -53,7 +53,7 @@ class _TelaChat extends State<TelaChat> {
         elevation: 2,
         leading: Padding(
           padding: const EdgeInsets.all(8.0),
-          child: Image.asset("assets/images/heitor.jpeg"),
+          child: Image.asset("assets/images/openai_logo.jpg"),
         ),
         title: const Text("Heitor-GPT"),
         actions: [

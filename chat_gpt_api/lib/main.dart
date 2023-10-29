@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Heitor-GPT',
+        title: 'Chat GPT API',
         theme: ThemeData(
             scaffoldBackgroundColor: scaffoldBackgroundColor,
             appBarTheme: AppBarTheme(color: cardColor)),
